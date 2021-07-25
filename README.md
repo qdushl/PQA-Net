@@ -29,5 +29,6 @@ The explanations of some parameters are as below:
     parser.add_argument('--DT_ckpt_path', default='./checkpoint_pretrain4DTbgpsMC_dropout/', type=str, metavar='PATH', help='path to DT checkpoints') ######## distortion classification model patch  ##############
     parser.add_argument('--DT_ckpt', default="MeonDT-00026.pt", type=str, help='name of the DT checkpoint to load') ######## distortion classification model name  ##############
     
+ #################################################################################################################
     If you use this code please cite the paper "PQA-Net: Deep No Reference Point Cloud Quality Assessment via Multi-view Projection"
     
