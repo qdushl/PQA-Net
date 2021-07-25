@@ -15,6 +15,7 @@ The explanations of some parameters are as below:
 
 MainLQ.py is final task and please run it after finishing MainDTLQ.py.
 The explanations of some parameters are as below: 
+
     parser.add_argument("--trainsetDT", type=str, default="/home/qi/QiLiu/code/MEONCode/MEONLQ/dataset/") ######## distortion tested images patch ##############
     parser.add_argument("--train_csv_DT", type=str,
                             default="/home/qi/QiLiu/code/MEONCode/MEONLQModelChange/label/PCMeon2DelDMOSSameTrainbcmp_dist.txt") ######## distortion tested images dist file  ##############
