@@ -3,8 +3,8 @@ If you use this code please cite the paper
 
     "Q. Liu et al., "PQA-Net: Deep No Reference Point Cloud Quality Assessment via Multi-view Projection," in IEEE Transactions on Circuits and Systems for Video Technology, doi: 10.1109/TCSVT.2021.3100282."
     
-    The Bibtex format is as
-    "@ARTICLE{9496633,
+The Bibtex format is as
+  "@ARTICLE{9496633,
   author={Liu, Qi and Yuan, Hui and Su, Honglei and Liu, Hao and Wang, Yu and Yang, Huan and Hou, Junhui},
   journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
   title={PQA-Net: Deep No Reference Point Cloud Quality Assessment via Multi-view Projection}, 
