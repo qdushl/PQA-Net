@@ -1,4 +1,20 @@
 # PQA-Net
+If you use this code please cite the paper 
+
+    "Q. Liu et al., "PQA-Net: Deep No Reference Point Cloud Quality Assessment via Multi-view Projection," in IEEE Transactions on Circuits and Systems for Video Technology, doi: 10.1109/TCSVT.2021.3100282."
+    
+    The Bibtex format is as
+    "@ARTICLE{9496633,
+  author={Liu, Qi and Yuan, Hui and Su, Honglei and Liu, Hao and Wang, Yu and Yang, Huan and Hou, Junhui},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={PQA-Net: Deep No Reference Point Cloud Quality Assessment via Multi-view Projection}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TCSVT.2021.3100282}}"
+
+
 MainDTLQ.py is for distortion classification task and please run it first.
 The explanations of some parameters are as below: 
  
@@ -30,5 +46,5 @@ The explanations of some parameters are as below:
     parser.add_argument('--DT_ckpt', default="MeonDT-00026.pt", type=str, help='name of the DT checkpoint to load') ######## distortion classification model name  ##############
     
  #################################################################################################################
-    If you use this code please cite the paper "PQA-Net: Deep No Reference Point Cloud Quality Assessment via Multi-view Projection"
+
     
