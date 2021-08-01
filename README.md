@@ -4,7 +4,7 @@ If you use this code please cite the paper
     "Q. Liu et al., "PQA-Net: Deep No Reference Point Cloud Quality Assessment via Multi-view Projection," in IEEE Transactions on Circuits and Systems for Video Technology, doi: 10.1109/TCSVT.2021.3100282."
     
 Bibtex:  
-@ARTICLE{9496633,  
+@ARTICLE{liu2021pqa,  
   author={Liu, Qi and Yuan, Hui and Su, Honglei and Liu, Hao and Wang, Yu and Yang, Huan and Hou, Junhui},  
   journal={IEEE Transactions on Circuits and Systems for Video Technology},   
   title={PQA-Net: Deep No Reference Point Cloud Quality Assessment via Multi-view Projection},   
@@ -12,10 +12,10 @@ Bibtex:
   volume={},  
   number={},  
   pages={1-1},  
+  publisher={IEEE},  
   doi={10.1109/TCSVT.2021.3100282}  
   }  
-
-
+  
 MainDTLQ.py is for distortion classification task and please run it first.
 The explanations of some parameters are as below: 
  
